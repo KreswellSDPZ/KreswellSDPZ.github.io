@@ -4,8 +4,15 @@ title:  "Markdown sample"
 date:   2016-09-04
 ---
 
-### Markdown test document
+# Hello world.
+### My favorite food.
+#### Markdown test document
 
+[Link to Google](http://www.google.com)
+# A Puppy Gif
+
+![A pup](https://media.giphy.com/media/tP3Tu61F2RBZe/giphy.gif)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s8n16rns-iM" frameborder="0" allowfullscreen></iframe>
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines (unless hovered over).
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
